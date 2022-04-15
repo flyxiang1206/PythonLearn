@@ -1,5 +1,3 @@
-from cgitb import reset
-
 def CheckIsLeapYear(input):
     if(i%4==0 and i%100!=0) or i%400 ==0:
         return True
@@ -17,7 +15,7 @@ for i in range(inputA,inputB):
 
 print("閏年總數: ")
 print(len(resultList))
-print("\n閏年包含:\n")
+print("閏年包含:")
 
 for idx, data in enumerate(resultList):
     print(data)

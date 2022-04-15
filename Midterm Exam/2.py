@@ -1,5 +1,3 @@
-from cgitb import reset
-
 def CheckIsPrimeNumber(input):
     c = 2
     while c < input:

@@ -1,5 +1,3 @@
-from cgitb import reset
-
 width = 9
 higth = 9
 

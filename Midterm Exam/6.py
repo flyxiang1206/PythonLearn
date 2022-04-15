@@ -1,5 +1,3 @@
-from cgitb import reset
-
 def CheckIsMultiple(inputA,inputB):
     if inputB % inputA == 0:
         return True

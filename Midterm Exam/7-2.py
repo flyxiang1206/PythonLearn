@@ -1,5 +1,3 @@
-from cgitb import reset
-
 higth = 6
 
 result = ''

@@ -1,5 +1,3 @@
-from cgitb import reset
-
 sales = int(input("\n銷售金額輸入:"))
 
 basicSalary = 23999

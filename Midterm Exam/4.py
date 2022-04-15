@@ -1,5 +1,3 @@
-from cgitb import reset
-
 def MySort(list):
     return sorted(list)
 
