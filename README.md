@@ -6,3 +6,6 @@
     
 * Midterm Exam 
   * 偷做女友的期中考練習題
+
+* Object Oriented Midterm Exam 
+  * 偷做女友的物件導向程式語言期中考練習題
